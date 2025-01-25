@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#0969da;">Bander Al-Btati</span></h1>
+<h1 align="center"># Hi 👋, I'm **Bander Al-Btati**</h1>
 <h3 align="center">Front-End Developer with a solid foundation in web development and a basic understanding of Back-End technologies.</h3>
 
 <a target="_blank" align="center">
