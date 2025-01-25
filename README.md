@@ -5,16 +5,18 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 👨‍🎓 Graduated in Information Technology
+<div>
+  <p>👨‍🎓 <strong>Graduated in Information Technology</strong></p>
+  <p>🌐 <strong>Front-End Developer</strong> with basic knowledge in <strong>Back-End</strong></p>
+  <p>💼 <strong>Available for Freelance Work</strong></p>
+  <p>📫 <strong>How to reach me:</strong> <a href="mailto:bander.mohammed.2000@gmail.com">bander.mohammed.2000@gmail.com</a></p>
+</div>
 
-- 🌐 Front-End Developer with basic knowledge in Back-End
+<h3>What I Offer:</h3>
+<ul>
+  <li>🌟 <strong>Responsive Web Design</strong> using HTML, CSS, JavaScript</li>
+  <li>⚙️ <strong>Web Development</strong> with frameworks like Vue.js and Laravel</li>
+  <li>🔧 <strong>Back-End Knowledge</strong> in PHP and MySQL</li>
+</ul>
 
-- 💼 Available for Freelance Work
-
-- 📫 How to reach me **bander.mohammed.2000@gmail.com**
-
- What I Offer:
-  🌟 Responsive Web Design using HTML, CSS, JavaScript
-  ⚙️ Web Development with frameworks like Vue.js and Laravel
-  🔧 Back-End Knowledge in PHP and MySQL
 <br/>
