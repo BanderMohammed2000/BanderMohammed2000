@@ -16,8 +16,10 @@
 
 <h3>What I Offer:</h3>
 <ul>
-  <li>🌟 <strong>Responsive Web Design</strong> using HTML, CSS, JavaScript.</li>
+  <li>🌟 <strong>Responsive Web Design</strong> using HTML, CSS, JavaScript, SASS, and Bootstrap.</li>
   <li>⚙️ <strong>Web Development</strong> with frameworks like Vue.js and Laravel.</li>
   <li>🔧 <strong>Back-End Knowledge</strong> in PHP and MySQL.</li>
+  <li>🛠️ <strong>Version Control</strong> using Git and Github.</li>
 </ul>
+
 
