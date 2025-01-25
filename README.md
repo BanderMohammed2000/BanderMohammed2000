@@ -22,9 +22,8 @@
   <li>🛠️ <strong>Version Control</strong> using Git and Github.</li>
 </ul>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### <h2>🛠 &nbsp;Tech Stack</h2>
 [![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
