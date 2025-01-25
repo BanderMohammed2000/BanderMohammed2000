@@ -24,18 +24,24 @@
 
 
 ### <h2>🛠 &nbsp;Tech Stack</h2>
-[![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![SASS](https://img.shields.io/badge/-SASS-black?style=flat&logo=sass&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+</p>
+
+
 
