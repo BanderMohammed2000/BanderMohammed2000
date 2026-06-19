@@ -17,7 +17,7 @@
 <h3>What I Offer:</h3>
 <ul>
   <li>🌟 <strong>Responsive Web Design</strong> using HTML, CSS, JavaScript, SASS, Tailwind CSS, and Bootstrap.</li>
-  <li>⚙️ <strong>Web Development</strong> with frameworks like Vue.js and Laravel.</li>
+  <li>⚙️ <strong>Web Development</strong> with frameworks like React.js, Vue.js, and Laravel.</li>
   <li>🔧 <strong>Back-End Knowledge</strong> in PHP and MySQL.</li>
   <li>🛠️ <strong>Version Control</strong> using Git and Github.</li>
 </ul>
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
